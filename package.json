@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_lesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "news.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "prompt": "^1.0.0",
+    "request": "^2.87.0"
+  }
+}
